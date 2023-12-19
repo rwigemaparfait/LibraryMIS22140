@@ -27,7 +27,7 @@ public class EmailSenderServiceConfig {
             throws MessagingException {
         String message = "<body>\r\n" + //
                 "  <h1>\r\n" + //
-                "   Water access Rwanda \r\n" + //
+                "   KUDOS, WELL DONE \r\n" + //
                 "  </h1>\r\n" + //
                 "  <div>\r\n" + //
                 "    Hello,<b>" + username + "</b>\r\n" + //
